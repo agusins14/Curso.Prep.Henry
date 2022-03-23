@@ -1,4 +1,10 @@
-h1 {color: yellow;}
+h1 {position: absolute;
+  top: 50px;
+  left: 50px;
+
+    color: yellow;  
+}
+
    img {width: 400px;}
 
    #thirddiv {
@@ -11,5 +17,13 @@ h1 {color: yellow;}
 
      #spanid {
        font-size: 18px;
-       margin: 50px;
+       margin-top: 10px;
       }
+
+      h3{position: relative;
+         top: 0px;
+         left: 0px;}
+
+      h4{position: relative;
+      top: 80px;
+    left: 0px;}
